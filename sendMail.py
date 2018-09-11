@@ -1,0 +1,11 @@
+password
+pass
+passwd
+pwd
+mail
+xin.com
+qq.com
+baidu.com
+mima
+smtp.qq.com
+hawkeye00003
